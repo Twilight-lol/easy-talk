@@ -2,7 +2,7 @@
 
 _Last updated: 2 October 2026_
 
-Easy Talk is a voice dictation app for Android and Windows. This policy explains what the app does with your data. In short: Easy Talk has no servers, no accounts and no analytics, and the developer never receives your data.
+Easy Talk is a voice dictation app for Android and Windows. This policy explains what the app does with your data. In short: Easy Talk has no servers of its own and no accounts, and the developer never receives your voice or your text. The Android app uses Google Play and RevenueCat for Pro purchases, and Google AdMob for ads that you choose to watch.
 
 ## What Easy Talk handles
 
@@ -18,7 +18,7 @@ Easy Talk is a voice dictation app for Android and Windows. This policy explains
 2. to show the dictation bubble;
 3. to type your dictated text into that field.
 
-It reads the focused field's text and selection only to insert your words, or to edit the selected text when you use Voice Edit. It does not collect, store or share anything else on your screen, and it is not used for advertising or analytics.
+It reads the focused field's text and selection only to insert your words, or to edit the selected text when you use Voice Edit. It does not collect, store or share anything else on your screen, and it is never used for advertising or analytics.
 
 **Voice Lock voiceprint (optional).** If you set up Voice Lock, Easy Talk computes a numeric "voiceprint" from a short recording of your voice, which lets it ignore other people talking nearby.
 - The voiceprint is stored only on your device and never uploaded.
@@ -26,11 +26,28 @@ It reads the focused field's text and selection only to insert your words, or to
 
 **Your settings, dictionary and API keys.** These are stored only on your device. On Android, API keys are encrypted with the Android Keystore.
 
+## Easy Talk Pro purchases (Android)
+
+Pro is bought through Google Play. Google processes the payment under the [Google Payments privacy notice](https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice); Easy Talk never sees your card or payment details.
+
+To know whether you have Pro, the app uses [RevenueCat](https://www.revenuecat.com/privacy). RevenueCat receives:
+- a random ID created for this install (shown in the app as "Easy Talk ID"), not linked to your name or email;
+- your Google Play purchase records for Easy Talk;
+- basic technical details such as the app version, Android version, country and IP address.
+
+This is used only to unlock Pro, restore purchases and help with purchase problems. You can ask for this data to be deleted by sending your Easy Talk ID to the contact below.
+
+## Rewarded ads (Android)
+
+Easy Talk shows ads only when you tap "Watch ad" to unlock Voice Edit or Translate for 24 hours. There are no banner ads and no ads over other apps, and nothing ad-related runs until you choose to watch one.
+
+These ads come from [Google AdMob](https://policies.google.com/technologies/ads). When you watch one, Google may collect your device's advertising ID, IP address (and the approximate location it gives), device information and how you interact with the ad, to show the ad, measure it and prevent fraud. In the European Economic Area, the UK and Switzerland, Easy Talk asks for your consent first; you can change your choice in Settings → Ad privacy choices. You can reset or delete your advertising ID in your phone's Google settings. Your voice, your text and anything on your screen are never shared with advertisers.
+
 ## What Easy Talk does not do
 
 - It does not create accounts or collect your name, email or contacts.
-- It does not use analytics, advertising or tracking SDKs.
-- It does not sell or share data with anyone.
+- It does not use analytics or tracking SDKs, and it does not show ads unless you ask to watch one.
+- It does not sell your data.
 
 ## Downloads
 
