@@ -18,7 +18,7 @@ Easy Talk is a voice dictation app for Android and Windows. This policy explains
 2. to show the dictation bubble;
 3. to type your dictated text into that field.
 
-It reads the focused field's text and selection only to insert your words, or to edit the selected text when you use Voice Edit. It does not collect, store or share anything else on your screen, and it is never used for advertising or analytics.
+It reads the focused field's text and selection only to insert your words, or to edit the selected text when you use Voice Edit. For Voice Edit, the selected text is sent with your spoken instruction to the AI service you chose, with your key, so it can be rewritten; it is not kept. Easy Talk does not collect, store or share anything else on your screen, and the accessibility service is never used for advertising or analytics.
 
 **Voice Lock voiceprint (optional).** If you set up Voice Lock, Easy Talk computes a numeric "voiceprint" from a short recording of your voice, which lets it ignore other people talking nearby.
 - The voiceprint is stored only on your device and never uploaded.
